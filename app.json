@@ -10,7 +10,7 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "923051391007"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
@@ -50,7 +50,7 @@
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "923051391007"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
